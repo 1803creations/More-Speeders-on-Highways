@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\MoreSpeeders\obj\Debug\MoreSpeeders.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\MoreSpeeders\obj\Debug\MoreSpeeders.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\MoreSpeeders\bin\Debug\MoreSpeeders.dll
+C:\Users\Matt\source\repos\MoreSpeeders\bin\Debug\MoreSpeeders.pdb
+C:\Users\Matt\source\repos\MoreSpeeders\bin\Debug\LSPD First Response.dll
+C:\Users\Matt\source\repos\MoreSpeeders\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Matt\source\repos\MoreSpeeders\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Matt\source\repos\MoreSpeeders\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matt\source\repos\MoreSpeeders\obj\Debug\MoreSpeeders.csproj.CopyComplete
+C:\Users\Matt\source\repos\MoreSpeeders\obj\Debug\MoreSpeeders.dll
+C:\Users\Matt\source\repos\MoreSpeeders\obj\Debug\MoreSpeeders.pdb
